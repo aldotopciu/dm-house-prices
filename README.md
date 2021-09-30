@@ -13,12 +13,12 @@ The solutions are divided into two different notebooks (one for each part). <br>
 
 ## 1. House Prices Clustering
 In the fist part we will analyse the correlation of the dataset features.
-The solution of this task with the proper explanations is located in <a href="#">dm-house-prices/clustering/house_prices_clustering.ipynb</a> notebook.
+The solution of this task with the proper explanations is located in <a href="https://github.com/aldotopciu/dm-house-prices/blob/main/clustering/house_prices_clustering.ipynb">dm-house-prices/clustering/house_prices_clustering.ipynb</a> notebook.
 
 
 
 ## 2. House Prices Regression
 In the second part we are going to predict the final price of each home by using advanced regression techniques. <br>
-The solution of this task with the proper explanations is located in <a href="#">dm-house-prices/regression/house_prices_regression.ipynb</a> notebook.
+The solution of this task with the proper explanations is located in <a href="https://github.com/aldotopciu/dm-house-prices/blob/main/regression/house_prices_regression.ipynb">dm-house-prices/regression/house_prices_regression.ipynb</a> notebook.
 
-### The notebooks requirements for execution are specified in the <a href="#">requirments.txt</a> file.
+### The notebooks requirements for execution are specified in the <a href="https://github.com/aldotopciu/dm-house-prices/blob/main/requirements.txt">requirments.txt</a> file.
